@@ -1,13 +1,10 @@
 # KaliNethunter-Rooted
 
+How to install kali nethunter rooted with screenshot
 
-> 1 / 1
-> 
-> how to install kali nethunter rooted with screenshot
 
-ChatGPTChatGPT
 
-1 / 1
+
 
 Installing Kali NetHunter rooted on your Android device requires some technical skills and knowledge. Please note that rooting your device can potentially void its warranty and may also cause security vulnerabilities. Proceed at your own risk and take appropriate precautions.
 
