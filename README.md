@@ -17,6 +17,10 @@ Step 1: Check Compatibility
 
 Step 2: Download Kali NetHunter
 
+
+![image](https://user-images.githubusercontent.com/120317751/236116390-3a9f48ab-9300-4a70-a607-4df17c6e1b8b.png)
+
+
 *   Download the Kali NetHunter image for your device from the official Kali NetHunter website.
 *   Transfer the downloaded image to your device's internal storage.
 
