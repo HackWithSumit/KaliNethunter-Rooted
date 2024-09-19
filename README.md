@@ -39,16 +39,16 @@ To enable **OEM Unlocking** on a Samsung device, follow these steps:
 ### **Step-by-Step Images**
 
 #### 1. **Go to Settings > About phone > Software Information**
-![Step 1: Go to Software Information](https://example.com/step1.jpg)
+![Step 1: Go to Software Information]
 
 #### 2. **Tap Build Number 7 Times**
-![Step 2: Tap Build Number](https://example.com/step2.jpg)
+![Step 2: Tap Build Number]
 
 #### 3. **Go Back to Settings > Developer Options**
-![Step 3: Developer Options](https://example.com/step3.jpg)
+![Step 3: Developer Options]
 
 #### 4. **Toggle OEM Unlocking On**
-![Step 4: OEM Unlocking](https://example.com/step4.jpg)
+![Step 4: OEM Unlocking]
 
 Now, your Samsung device should have **OEM Unlocking** enabled!
 
