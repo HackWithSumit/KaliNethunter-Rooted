@@ -1,5 +1,8 @@
 # KaliNethunter-Rooted Galaxy A8+ (A730F)
 
+![cybersecurity](https://github.com/user-attachments/assets/e28fdf64-b818-4dc8-9d75-edfd47a458c9)
+
+
 A. 1st turn on OEM Unlocking (Procedure): 
 # How to Enable OEM Unlocking on Samsung Devices
 
