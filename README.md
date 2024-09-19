@@ -1,4 +1,4 @@
-# KaliNethunter-Rooted Galaxy A8+ (A730F)
+# KaliNethunter-Rooted Galaxy A8+ (A730F) | Others Galaxy Devices
 
 ![cybersecurity](https://github.com/user-attachments/assets/e28fdf64-b818-4dc8-9d75-edfd47a458c9)
 
