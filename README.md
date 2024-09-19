@@ -82,6 +82,8 @@ Now, your Samsung device should have **OEM Unlocking** enabled!
 
 Once in **Download Mode**, you can connect your device to a computer and use tools like **Odin** to flash firmware or perform other tasks.
 
+## Now Run Odin.exe
+
 
 
 
