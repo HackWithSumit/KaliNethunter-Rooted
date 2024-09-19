@@ -2,6 +2,8 @@
 
 ![cybersecurity](https://github.com/user-attachments/assets/e28fdf64-b818-4dc8-9d75-edfd47a458c9)
 
+Required Files: https://github.com/HackWithSumit/KaliNethunter-Rooted/releases/tag/KaliNethunter
+
 
 A. 1st turn on OEM Unlocking (Procedure): 
 # How to Enable OEM Unlocking on Samsung Devices
