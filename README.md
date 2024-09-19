@@ -84,6 +84,24 @@ Once in **Download Mode**, you can connect your device to a computer and use too
 
 ## Now Run Odin.exe
 
+![image](https://github.com/user-attachments/assets/f3a65146-0132-488d-93bf-62d894824e4b)
+
+## Odin Application Interface:
+
+![image](https://github.com/user-attachments/assets/a23e4a0b-a809-454f-a590-a8dbcd108093)
+
+## Now Click on AP tab then choose TWRP.tar file.
+Remember Your device must be in Download Mode.
+
+![image](https://github.com/user-attachments/assets/a800260c-647c-4433-affe-f0e91467d140)
+
+![image](https://github.com/user-attachments/assets/cf26179e-2fa7-481f-a05d-dfc6cd167fb3)
+
+## Then click on Start Button
+
+
+
+
 
 
 
