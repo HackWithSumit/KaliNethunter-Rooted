@@ -52,6 +52,32 @@ To enable **OEM Unlocking** on a Samsung device, follow these steps:
 
 Now, your Samsung device should have **OEM Unlocking** enabled!
 
+<H2> Then turn phone into Download mode</H2>
+
+# How to Turn on Samsung Device into Download Mode
+
+## For Samsung Devices with **Bixby Button** (like Galaxy S10, S9, Note 9):
+1. **Turn off** your Samsung device completely.
+2. Press and hold the **Volume Down + Bixby + Power** buttons simultaneously.
+3. Keep holding the buttons until the **Download Mode** screen appears.
+4. Release the buttons when you see the **Warning** screen, then press **Volume Up** to confirm and enter Download Mode.
+
+## For Samsung Devices without a **Bixby Button** (like Galaxy S20, S21, Note 20):
+1. **Turn off** your device.
+2. Press and hold the **Volume Down + Volume Up** buttons together.
+3. While holding these buttons, **connect your phone to your PC** using a USB cable.
+4. When the **Warning** screen appears, release the buttons and press **Volume Up** to enter Download Mode.
+
+## For Older Samsung Devices (with **Home Button**):
+1. Power off the device.
+2. Press and hold **Volume Down + Home + Power** buttons at the same time.
+3. When the Warning screen appears, press **Volume Up** to confirm and enter Download Mode.
+
+---
+
+Once in **Download Mode**, you can connect your device to a computer and use tools like **Odin** to flash firmware or perform other tasks.
+
+
 
 
 
