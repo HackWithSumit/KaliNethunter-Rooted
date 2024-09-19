@@ -97,7 +97,13 @@ Remember Your device must be in Download Mode.
 
 ![image](https://github.com/user-attachments/assets/cf26179e-2fa7-481f-a05d-dfc6cd167fb3)
 
-## Then click on Start Button
+Then click on Start Button
+
+
+## Remember Nand Erase &  Auto Reboot not checked. 
+
+![image](https://github.com/user-attachments/assets/dc3e082e-0dc7-4537-9055-aa35335ec34c)
+
 
 
 
